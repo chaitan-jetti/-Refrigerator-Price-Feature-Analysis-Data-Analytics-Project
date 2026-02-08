@@ -1,7 +1,7 @@
 # Refrigerator Price & Feature Analysis – Data Analytics Project
 
 This project focuses on analyzing 984 refrigerator models scraped from Flipkart.
-It includes Cleaning, EDA, Visualization, and Machine Learning predictions.
+It includes Cleaning, EDA, Visualization.
 
 ## 🔹 Key Features
 - Data Cleaning & Preprocessing
